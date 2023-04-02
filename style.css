@@ -1055,6 +1055,9 @@ html, body {
          align-items: flex-start;
          margin-bottom: 20px;
       }
+      footer .col a{
+         text-decoration: none;
+      }
       footer .logo{
          margin-bottom: 30px;
       }
