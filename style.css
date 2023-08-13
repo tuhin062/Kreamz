@@ -2,6 +2,7 @@ html,
 body {
 	height: 100%;
 	width: 100%;
+	overflow: hidden; /* Hide scrollbars */
 }
 
 <link rel="stylesheet" href="https://egkoppel.github.io/product-sans/google-fonts.css">* {
