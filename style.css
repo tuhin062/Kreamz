@@ -5,6 +5,10 @@ body {
 	overflow: hidden; /* Hide scrollbars */
 }
 
+::-webkit-scrollbar {
+    display: none;
+}
+
 <link rel="stylesheet" href="https://egkoppel.github.io/product-sans/google-fonts.css">* {
 	margin: 0;
 	padding: 0;
